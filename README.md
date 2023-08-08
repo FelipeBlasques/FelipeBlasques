@@ -6,7 +6,7 @@ Studying Computer Engineering at the Federal Technological University of Paraná
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fe.blasques/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-navarro-blasques-074b09202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-blasques-074b09202/)
 [![MAL](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Chomray)
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeBlasques&show_icons=true&theme=dark)
