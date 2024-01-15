@@ -16,6 +16,13 @@ Studying Computer Engineering at the Federal Technological University of Paraná
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Django](https://img.shields.io/badge/django-8A2BE2)
+![PySide6](https://img.shields.io/badge/PySide6-ff8d00)
+![Selenium](https://img.shields.io/badge/Selenium-00cc99)
+
+
+
+
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBlasques&theme=blue-green)
 
