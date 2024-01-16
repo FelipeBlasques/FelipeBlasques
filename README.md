@@ -9,22 +9,21 @@ Studying Computer Engineering at the Federal Technological University of Paraná
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-blasques-074b09202/)
 [![MAL](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Chomray)
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeBlasques&show_icons=true&theme=dark)
 
+[//]: <> (https://github-readme-stats.vercel.app/api?username=FelipeBlasques&show_icons=true&theme=dark)
 
-
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBlasques&theme=blue-green)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Django](https://img.shields.io/badge/django-8A2BE2)
-![PySide6](https://img.shields.io/badge/PySide6-ff8d00)
-![Selenium](https://img.shields.io/badge/Selenium-00cc99)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBlasques&theme=blue-green)
+  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 
 Knowledge
