@@ -14,24 +14,41 @@ Studying Computer Engineering at the Federal Technological University of Paraná
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBlasques&theme=blue-green)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+##
 
+<div style="display: inline_blocks">
 
-Knowledge
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12yB.svg" />
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12wJ.svg" />
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12yX.svg" />
+  
+</div>
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-
-Workspace IDE and OS
-
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+##
 
 
-Workspace Specs
+**Knowledge**
+
+<div style="display: inline_blocks">
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12yh.svg" />
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12yD.svg" />
+</div>
+
+<br>
+
+**Workspace IDE and OS**
+
+<div style="display: inline_blocks">
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12xJ.svg" /> Visual Studio Code
+  <img align="center" height="30" width="40" src="https://svgshare.com/i/12y1.svg" /> Zorin OS 17
+</div>
+
+
+<br>
+
+**Workspace Specs**
 
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
